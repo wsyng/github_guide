@@ -22,7 +22,8 @@ git remote add origin [url]
 	Enter credentials
 
 # Otherwise
-git push origin [branch]</br>
+git push origin [branch]
+
 	Enter Credentials
 
 ----------------------------------------------------------
