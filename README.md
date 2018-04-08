@@ -26,11 +26,11 @@ git push origin [branch]
 
 ----------------------------------------------------------
 
-Remove file:</br>
+# Remove file:</br>
 git rm file1.txt</br>
 git commit -m "remove file1.txt"
 
-Remove file from repo only (not local file system):</br>
+# Remove file from repo only (not local file system):</br>
 git rm --cached file1.txt</br>
 git commit -m "remove file1.txt"
 
