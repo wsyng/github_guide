@@ -18,6 +18,7 @@ git commit -m "test git repo"
 
 # If this is a new repo
 git remote add origin [url]
+
 	Enter credentials
 
 # Otherwise
