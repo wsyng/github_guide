@@ -1,18 +1,17 @@
 # Github Guide
 
-create repo on github
-
+create repo on github</br>
 git init [project]
 
 cd [project]
 
-vim README.md
-	Big Title
+vim README.md</br>
+	Big Title</br>
 	This is a git repo
 
 vim sample.py
 
-git add README.md
+git add README.md</br>
 git add sample.py
 
 git commit -m "test git repo"
