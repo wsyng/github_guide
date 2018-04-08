@@ -3,6 +3,7 @@
 create repo on github
 
 git init [project]
+
 cd [project]
 
 vim README.md
